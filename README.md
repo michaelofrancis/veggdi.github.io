@@ -1,5 +1,5 @@
 
-# Gene-vegetarianism interactions detected in genome-wide analyses across 30 serum biomarkers
+# Gene-vegetarianism interactions in calcium, estimated glomerular filtration rate, and testosterone identified in genome-wide analysis across 30 biomarkers
 
-Francis M & Ye K
-medRxiv 2022.10.21.22281358; doi: https://doi.org/10.1101/2022.10.21.22281358
+Francis M, Westerman KE, Manning AK, Ye K (2024) PLOS Genetics (In press).
+Preprint here: medRxiv 2022.10.21.22281358; doi: https://doi.org/10.1101/2022.10.21.22281358
